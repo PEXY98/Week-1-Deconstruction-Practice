@@ -1,0 +1,11 @@
+https://www.youtube.com/watch?v=gWU7VIrzYlQ
+    Input: Music (beats), Signals from the switches
+    Simulation: The gradual change of the size of the shapes
+    Event: Different plots of the music can cause different render of the graphics
+    Render: Background (B&W), Lines, 2D & 3D graphics, change of the size
+
+http://hint.fm/wind/
+    Input: Time, Location, Wind speed, Wind direction
+    Simulation: The smooth line of winds
+    Event: (no idea)
+    Render: lines of the winds, Map, the zoom effect when user zoom in or out
